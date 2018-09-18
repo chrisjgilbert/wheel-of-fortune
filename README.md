@@ -1,1 +1,1 @@
-# wheel-of-fortune
+# wheel-of-fortune as per Jordan Hudgens' "Comprehensive Ruby Programming" course on Udemy.
